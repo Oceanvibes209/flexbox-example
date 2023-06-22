@@ -4,7 +4,7 @@
     align-items:center;
     justify-content:center;
     border:5px green solid;
-    height:100vh;
+    height:120vh;
     width:100vw;
 
 }
@@ -37,4 +37,9 @@
 .purple{
     flex-direction:row;
     background-color:purple;
+}
+.main-title{
+    text-align:center;
+    color: gray;
+    font-size:25px;
 }
